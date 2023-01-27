@@ -4,10 +4,18 @@
 
 ## Index
 
-* [Microsoft](#microsoft)
-* [Nintendo](#nintendo)
-* [SEGA](#sega)
-* [Sony](#sony)
+* [Why This Database](#why-this-database)
+* Companies
+  * [Microsoft](#microsoft)
+  * [Nintendo](#nintendo)
+  * [SEGA](#sega)
+  * [Sony](#sony)
+
+## Why This Database
+
+* Check whether shelves would fit your games, and how many
+* Build/order custom boxes and protectors
+* Build/order custom furniture for your games
 
 ## Microsoft
 
