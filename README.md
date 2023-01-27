@@ -1,1 +1,0 @@
-# Videogame Box Size Database
