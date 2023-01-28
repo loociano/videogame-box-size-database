@@ -21,12 +21,15 @@
 
 ## Nintendo
 
-| System            | Region     | Height (mm) | Width (mm) | Depth (mm) | Comment           |
-|:------------------|:-----------|------------:|-----------:|-----------:|:------------------|
-| Nintendo 64       | PAL        |         125 |        178 |         30 |                   |
-| Nintendo GAME BOY | US, Europe |         125 |        125 |         25 |                   |
-| Nintendo GameCube | NTSC, PAL  |         190 |        135 |         14 | Standard DVD Case |
-| Nintendo GameCube | Japan      |         149 |        107 |         17 |                   |
+| System                    | Region     | Height (mm) | Width (mm) | Depth (mm) | Comment           |
+|:--------------------------|:-----------|------------:|-----------:|-----------:|:------------------|
+| Nintendo 64               | PAL        |         125 |        178 |         30 |                   |
+| Nintendo GAME BOY         | US, Europe |         125 |        125 |         25 |                   |
+| Nintendo GAME BOY Color   | US, Europe |         125 |        125 |         25 |                   |
+| Nintendo GAME BOY Advance | US, Europe |         125 |        125 |         25 |                   |
+| Nintendo GameCube         | NTSC, PAL  |         190 |        135 |         14 | Standard DVD Case |
+| Nintendo GameCube         | Japan      |         149 |        107 |         17 |                   |
+| Nintendo Virtual Boy      | Japan      |         125 |        125 |         25 |                   |
 
 ## SEGA
 
